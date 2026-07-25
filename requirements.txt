@@ -1,0 +1,22 @@
+# Web & API
+fastapi
+uvicorn
+httpx
+python-dotenv
+
+# Graph Database
+neo4j
+
+# Agents & LLM
+langgraph
+langchain-groq
+langchain-google-genai
+pydantic
+
+# ML & Data Manipulation
+xgboost
+lightgbm
+pandas
+numpy
+Faker
+scikit-learn
